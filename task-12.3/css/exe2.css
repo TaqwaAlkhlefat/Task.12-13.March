@@ -1,0 +1,67 @@
+
+
+
+
+body {
+    background-color: orange;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: white;
+    height: 500px;
+    
+    
+  }
+  
+  .flex-container > div {
+    color: white;
+    width: 333px;
+    height: 166px;
+    margin: 0px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+
+ .b1 {
+    background-color: rgb(63, 175, 96);
+ }
+
+ .b2 {
+    background-color: rgb(86, 146, 214);
+ }
+
+ .b3 {
+    background-color: purple;
+ }
+
+ .b4 {
+    background-color: rgb(27, 27, 44);
+ }
+
+ .b5 {
+    background-color: yellow;
+ }
+
+ .b6 {
+    background-color: orangered;
+ }
+
+ .b7 {
+    background-color: red;
+ }
+
+ .b8 {
+    background-color: rgb(160, 160, 160);
+ }
+
+ .b9 {
+    background-color:rgb(144, 214, 38);
+ }
+
+ .b10 {
+    background-color: rgb(51, 145, 58);
+ }

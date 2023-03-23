@@ -1,0 +1,47 @@
+
+
+
+
+body {
+    background-color: rgb(251, 253, 147);
+}
+
+.con {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    width: 350px;
+    height: 500px;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-top: 30px;
+
+
+}
+
+img {
+    padding: 3px;
+    margin: 25px;
+}
+
+
+
+.im {
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+
+
+span {
+    
+    font-weight: bold;
+    color: black;
+}
+
+p {
+    margin-top: 40px;
+    color: rgb(150, 147, 147);
+}

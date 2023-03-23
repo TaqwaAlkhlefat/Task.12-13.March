@@ -1,0 +1,57 @@
+
+
+body {
+    background-color: orange;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    
+  }
+  
+  .flex-container > div {
+    color: white;
+    width: 150px;
+    height: 1000px;
+    margin: 0px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+
+ .b1 {
+    background-color: green;
+ }
+
+ .b2 {
+    background-color: yellow;
+ }
+
+ .b3 {
+    background-color: purple;
+ }
+
+ .b4 {
+    background-color: gray;
+ }
+
+ .b5 {
+    background-color: blue;
+ }
+
+ .b6 {
+    background-color: orangered;
+ }
+
+ .b7 {
+    background-color: palevioletred;
+ }
+
+ .b8 {
+    background-color: red;
+ }
+
+ .b9 {
+    background-color: brown;
+ }

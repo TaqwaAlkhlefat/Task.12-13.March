@@ -1,0 +1,42 @@
+
+
+
+
+.one {
+    padding: 5px;
+    margin: 5px;
+    width: 70%;
+    display: inline-block;
+    text-align: right;
+    
+
+}
+
+#paragraph {
+    display: inline-block;
+    
+    margin-left: 75%;
+}
+#two img {
+    width: 125px;
+    height: 85px;
+}
+.two {
+    display: inline-block;
+    width: 25%;
+    padding: 5px;
+    margin: 5px;
+    text-align: right;
+}
+.col-one {
+    display: inline-block;
+    width: 48%;
+}
+.col-two {
+    display: inline-block;
+    width: 48%;
+
+}
+#a {
+    text-decoration: none;
+}
